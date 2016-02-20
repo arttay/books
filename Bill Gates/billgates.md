@@ -1,0 +1,1 @@
+[Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) has no title attribute.
