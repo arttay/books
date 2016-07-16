@@ -1,3 +1,13 @@
+~~[The Rise of Nagash](https://www.amazon.com/Rise-Nagash-Time-Legends/dp/1849702837/ref=sr_1_3?ie=UTF8&qid=1468639796&sr=8-3&keywords=nagash) has no title attribute.~~
+
+~~[Diablo Archive](https://www.amazon.com/Diablo-Archive-Richard-Knaak/dp/1416576991/ref=sr_1_1?ie=UTF8&qid=1468639733&sr=8-1&keywords=diablo+archive) has no title attribute.~~
+
+~~[Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.amazon.com/Inside-Apple-Americas-Admired---Secretive--Company/dp/1455512168/ref=sr_1_1?s=books&ie=UTF8&qid=1468639642&sr=1-1&keywords=inside+apple) has no title attribute.~~
+
+~~[The Facebook Effect: The Inside Story of the Company That Is Connecting the World](https://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102120/ref=sr_1_1?s=books&ie=UTF8&qid=1468639601&sr=1-1&keywords=the+facebook+effect) has no title attribute.~~
+
+~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works) has no title attribute.~~
+
 [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) has no title attribute.
 
 
