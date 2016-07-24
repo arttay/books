@@ -8,6 +8,9 @@
 
 ~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works) has no title attribute.~~
 
+
+[Infotopia: How Many Minds Produce Knowledge Construction](https://www.amazon.com/Infotopia-Many-Minds-Produce-Knowledge/dp/0195340671/ref=sr_1_1?ie=UTF8&qid=1469362258&sr=8-1&keywords=infotopia) has no title attribute.
+
 [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) has no title attribute.
 
 
