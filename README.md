@@ -9,6 +9,10 @@
 ~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works) has no title attribute.~~
 
 
+[The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640/ref=sr_1_1?ie=UTF8&qid=1469810629&sr=8-1&keywords=the+evolution+of+cooperation) has no title attribute.
+
+[Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/ref=sr_1_1?ie=UTF8&qid=1469810543&sr=8-1&keywords=team+of+teams) has no title attribute.
+
 [Infotopia: How Many Minds Produce Knowledge Construction](https://www.amazon.com/Infotopia-Many-Minds-Produce-Knowledge/dp/0195340671/ref=sr_1_1?ie=UTF8&qid=1469362258&sr=8-1&keywords=infotopia) has no title attribute.
 
 [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) has no title attribute.
