@@ -6,13 +6,13 @@
 
 ~~[Onward: How Starbucks Fought for Its Life without Losing Its Soul](https://www.amazon.com/Onward-Starbucks-Fought-without-Losing/dp/1605292885/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)~~
 
+~~[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/B00FJFJOLC/ref=zg_bs_549726_4?_encoding=UTF8&psc=1&refRID=8TC72M97WD3TQ2X9SS9W)~~
+
 [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640/ref=sr_1_1?ie=UTF8&qid=1469810629&sr=8-1&keywords=the+evolution+of+cooperation) 
 
 [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/ref=sr_1_1?ie=UTF8&qid=1469810543&sr=8-1&keywords=team+of+teams) 
 
 [The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) 
-
-[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/B00FJFJOLC/ref=zg_bs_549726_4?_encoding=UTF8&psc=1&refRID=8TC72M97WD3TQ2X9SS9W) 
 
 [Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising](https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389/ref=zg_bs_549726_29?_encoding=UTF8&psc=1&refRID=WCF7GN0TYSJJMMRW19B4)
 
