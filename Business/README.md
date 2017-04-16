@@ -4,6 +4,8 @@
 
 ~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works) ~~
 
+~~[Onward: How Starbucks Fought for Its Life without Losing Its Soul](https://www.amazon.com/Onward-Starbucks-Fought-without-Losing/dp/1605292885/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)~~
+
 [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640/ref=sr_1_1?ie=UTF8&qid=1469810629&sr=8-1&keywords=the+evolution+of+cooperation) 
 
 [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/ref=sr_1_1?ie=UTF8&qid=1469810543&sr=8-1&keywords=team+of+teams) 
@@ -34,8 +36,6 @@
 [Built to Last: Successful Habits of Visionary Companies](https://www.amazon.com/Built-Last-Successful-Visionary-Companies/dp/0060566108/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
 [Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All](https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite/dp/0062120999/ref=zg_bs_2542_40?_encoding=UTF8&psc=1&refRID=M862EAC7NG45MYXWPCEA)
-
-[Onward: How Starbucks Fought for Its Life without Losing Its Soul](https://www.amazon.com/Onward-Starbucks-Fought-without-Losing/dp/1605292885/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
 [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
