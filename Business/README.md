@@ -1,8 +1,8 @@
-~~[Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.amazon.com/Inside-Apple-Americas-Admired---Secretive--Company/dp/1455512168/ref=sr_1_1?s=books&ie=UTF8&qid=1468639642&sr=1-1&keywords=inside+apple) ~~
+~~[Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.amazon.com/Inside-Apple-Americas-Admired---Secretive--Company/dp/1455512168/ref=sr_1_1?s=books&ie=UTF8&qid=1468639642&sr=1-1&keywords=inside+apple)~~
 
-~~[The Facebook Effect: The Inside Story of the Company That Is Connecting the World](https://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102120/ref=sr_1_1?s=books&ie=UTF8&qid=1468639601&sr=1-1&keywords=the+facebook+effect) ~~
+~~[The Facebook Effect: The Inside Story of the Company That Is Connecting the World](https://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102120/ref=sr_1_1?s=books&ie=UTF8&qid=1468639601&sr=1-1&keywords=the+facebook+effect)~~
 
-~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works) ~~
+~~[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=sr_1_1?s=books&ie=UTF8&qid=1468639561&sr=1-1&keywords=how+google+works)~~
 
 ~~[Onward: How Starbucks Fought for Its Life without Losing Its Soul](https://www.amazon.com/Onward-Starbucks-Fought-without-Losing/dp/1605292885/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)~~
 
